@@ -1,0 +1,52 @@
+---
+-   hosts: mac
+    roles:
+        -   role: homebrew
+            applications:
+                - awscli
+                - caddy
+                - composer
+                - coreutils
+                - docker
+                - docker-compose
+                - docker-credential-helper-ecr
+                - fish
+                - gnupg
+                - hh
+                - htop
+                - httpie
+                - jq
+                - make
+                - php@8.0
+                - pinentry-mac
+                - pwgen
+                - redis
+                - sqlite
+                - terraform
+                - tmux
+                - yarn
+            casks:
+                - 1password
+                - brave-browser
+                - discord
+                - dropbox
+                - google-chrome
+                - linear-linear
+                - ngrok
+                - notion
+                - phpstorm
+                - plex-media-player
+                - pop
+                - postman
+                - raycast
+                - secure-pipes
+                - session
+                - slack
+                - spectacle
+                - spotify
+                - stoplight-studio
+                - tinkerwell
+                - tower
+                - typora
+                - vlc
+                - zoom
