@@ -17,6 +17,7 @@
                 - httpie
                 - jq
                 - make
+                - packer
                 - php@8.0
                 - pinentry-mac
                 - pwgen
