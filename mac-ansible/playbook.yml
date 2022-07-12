@@ -4,6 +4,7 @@
         -   role: homebrew
             applications:
                 - awscli
+                - bash-completion
                 - caddy
                 - composer
                 - coreutils
